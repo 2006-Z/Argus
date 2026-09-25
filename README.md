@@ -54,3 +54,10 @@ From now on, you can open Argus from anywhere, anytime, just by typing `argus`.
 ## If something ever goes wrong
 
 Go back into the `Argus` folder and run `./start` again. It checks itself and fixes anything that's broken.
+
+## Hidden commands
+
+At the "Choose a tool:" screen inside Argus, two special words work:
+
+- Typing **`update`** downloads the newest version of Argus and restarts itself with it, right away.
+- Typing **`delete`** breaks Argus on purpose (removes it from your computer's list of known commands). The next time you go into the `Argus` folder and run it, it notices and fixes itself automatically — useful for checking that the self-repair really works.
