@@ -1,0 +1,5 @@
+openpyxl
+requests
+Pillow
+pymupdf
+playwright

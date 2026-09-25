@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+*_output/
+.argus_setup_ok
