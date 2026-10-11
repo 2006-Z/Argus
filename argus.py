@@ -65,6 +65,8 @@ TOOLS = [
      ["ELEMENT ID", "APPLICATION"], "up_pcc_status_checker_output", 2, []),
     ("Delhi Pcc Status Checker", "PccStatusChecker", "delhi_pcc_status_checker.py", "Excel file", "Excel File",
      ["ELEMENT ID", "PCC APPLICATION NUMBER", "NAME", "FATHER NAME"], "delhi_pcc_status_checker_output", 5, []),
+    ("Up Pcc Pdf Downloader", "UpPccPdfDownloader", "up_pcc_pdf_downloader.py", "Excel file", "Excel File",
+     ["ELEMENT ID", "APPLICATION"], "up_pcc_pdf_downloader_output", 1, []),
 ]
 
 
